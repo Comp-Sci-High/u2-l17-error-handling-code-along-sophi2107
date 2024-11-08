@@ -29,3 +29,12 @@ async function fetchData(url) {
 }
 
 fetchData(requestURL);
+
+// Step 11: Add, Commit, & Push. Look on at the repo on GitHub and notice that your API is never shown publicly. 
+
+
+// Step 12: Individual Practice - Go to previous repos and add error handling/environmental variables, some options include: 
+// U2L7: ARTIC API Lab 
+// U2L8: Auth Code Along
+// U2L9: Documentation Practice
+// U2L13: Creating Post Requests
